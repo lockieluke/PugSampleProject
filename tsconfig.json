@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2020",
+        "removeComments": true,
+        "outDir": "dist",
+        "rootDir": "src",
+        "sourceMap": true,
+    },
+    "exclude": [
+        "node_modules", "gulpfile.ts"
+    ],
+}
